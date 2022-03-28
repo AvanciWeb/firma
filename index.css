@@ -1,0 +1,34 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+.logo {
+  margin: -20px;
+}
+
+.linea {
+  margin: 0px;
+}
+.name_mrg {
+  margin-top: 16px;
+  font-size: 16px;
+}
+.founder_mrg {
+  margin-top: -19px;
+  font-size: 12px;
+}
+
+.founder_mrg:hover {
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+  transition: 0.2s;
+}
+
+.data1_mrg {
+  margin-top: -2px;
+  font-size: 14px;
+}
+.data2_mrg {
+  margin-top: -12px;
+  font-size: 14px;
+}
